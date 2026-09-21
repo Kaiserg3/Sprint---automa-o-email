@@ -1,2 +1,2 @@
-# Sprint---automa-o-email
+# Sprint-automacao-email
 Sistema web para automatizar o envio de emails de apresentação para RHs
